@@ -39,7 +39,7 @@
             .height(innerHeight - 10)
             .globeImageUrl("earth-blue-marble.jpg");
 
-        // getAndSetGeoLocation();
+        getAndSetGeoLocation();
     }
 
     function preloadImage(url) {

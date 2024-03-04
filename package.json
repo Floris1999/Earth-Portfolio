@@ -15,7 +15,6 @@
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"autoprefixer": "^10.4.18",
-		"my-library": "file:/home/floriswieringa/Documents/Code/Svelte/svelte-web-components-template/dist",
 		"postcss": "^8.4.35",
 		"svelte": "^4.2.7",
 		"svelte-check": "^3.6.0",
