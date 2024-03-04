@@ -21,9 +21,6 @@ devDependencies:
   autoprefixer:
     specifier: ^10.4.18
     version: 10.4.18(postcss@8.4.35)
-  my-library:
-    specifier: file:/home/floriswieringa/Documents/Code/Svelte/svelte-web-components-template/dist
-    version: file:../svelte-web-components-template/dist
   postcss:
     specifier: ^8.4.35
     version: 8.4.35
@@ -2069,9 +2066,3 @@ packages:
     dependencies:
       rafor: 1.0.2
     dev: false
-
-  file:../svelte-web-components-template/dist:
-    resolution: {directory: ../svelte-web-components-template/dist, type: directory}
-    name: dist
-    version: 0.0.0
-    dev: true
